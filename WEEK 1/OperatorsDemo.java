@@ -11,7 +11,12 @@ public class OperatorsDemo {
         int b = sc.nextInt();
  
         // ---------- Arithmetic Operators ----------
-        
+        System.out.println("\n--- Arithmetic Operators ---");
+        System.out.println("a + b = " + (a + b));
+        System.out.println("a - b = " + (a - b));
+        System.out.println("a * b = " + (a * b));
+        System.out.println("a / b = " + (a / b));
+        System.out.println("a % b = " + (a % b));
  
         // ---------- Relational Operators ----------
         System.out.println("\n--- Relational Operators ---");
