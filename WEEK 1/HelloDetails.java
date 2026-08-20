@@ -1,10 +1,10 @@
 public class HelloDetails {
     public static void main(String[] args) {
         // Declare and initialize personal/college details
-        String name = "Your Name";
-        String rollNumber = "21XX1A0501";
-        String department = "Computer Science and Engineering";
-        String college = "XYZ College of Engineering";
+        String name = "SIRISH";
+        String rollNumber = "21A0501";
+        String department = "INFORMATION TECHNOLOGY";
+        String college = "Chaitanya Bharathi Institute of Technology";
  
         // Display the details on the console
         System.out.println("Name: " + name);
