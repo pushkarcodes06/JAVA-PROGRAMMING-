@@ -13,8 +13,8 @@ public class StudentDemo {
 	public static void main(String[] args) {
     	// Create a Student object and set its fields
         Student s1 = new Student();
-        s1.studentId = 101;
-        s1.studentName = "Ananya Rao";
+        s1.studentId = 160125737117;
+        s1.studentName = "PUSHKAR RAJ";
  
     	// Display the student's details
         s1.display();
