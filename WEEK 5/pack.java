@@ -1,4 +1,4 @@
-package com.shapes;
+package com.shapes
 public class Rectangle {
 	double length, width;
 	public Rectangle(double l, double w) { length = l; width = w; }
